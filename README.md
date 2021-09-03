@@ -4,6 +4,8 @@
 
 This is a terminal based single user dungeon (SUD) game written in Python. Escape the lair of the cultists and win back your freedom! With four different classes to choose from and a variety of dynamically varied enemies to fight, explore a 25x25 map with different areas and mob types. But that's not all... at the end of the dungeon awaits the final boss. Can you make it out alive?
 
+This game was originally created for BCIT CST's COMP1510 course.
+
 ### Classes
 
 | Name  | Description |
