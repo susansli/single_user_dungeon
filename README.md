@@ -17,3 +17,7 @@ This is a terminal based single user dungeon (SUD) game written in Python. Escap
 
 Run game.py with Python on your terminal!
 
+### Flowchart
+
+Refer to GAME_FLOWCHART.pdf
+
