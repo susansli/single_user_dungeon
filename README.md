@@ -23,3 +23,7 @@ Run game.py with Python on your terminal!
 
 Refer to GAME_FLOWCHART.pdf
 
+### Test Suite
+
+Note: move game.py into test suite to run unit tests
+
